@@ -42,7 +42,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1F4C4728-A5FA-4119-BCEE-DCF8DBA3A4CD}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Test Callbacks.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Test Callbacks/Test Callbacks.exe</Property>
